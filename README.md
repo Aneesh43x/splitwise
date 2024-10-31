@@ -54,4 +54,3 @@ Certainly! Here’s a structured approach for developing a web application like 
 	• Maintain Documentation: Keep all documentation updated for future reference.
 Conclusion
 This structured approach ensures a clear workflow from planning through to deployment. By focusing on technical specifications, API contracts, and iterative development, you can create a robust web application while accommodating changes and improvements along the way. If you have any specific questions or need further details on any step, feel free to ask!
-![image](https://github.com/user-attachments/assets/659be4b8-4f7e-4529-9603-38d281984080)
